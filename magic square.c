@@ -1,4 +1,4 @@
-
+//new zmiana 6
 //new zmiana 6
 // A function to generate odd sized magic squares
 void generateSquare(int n)

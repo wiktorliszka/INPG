@@ -1,4 +1,4 @@
-
+//new zmiana 8
 //new zmiana 8
 #include<stdio.h>
 float potega(float x, int n)

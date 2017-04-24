@@ -1,4 +1,4 @@
-
+//new zmiana 9
 //new zmiana 9
 // C program to replace all ‘0’ with ‘5’ in an input Integer
 #include<stdio.h>
