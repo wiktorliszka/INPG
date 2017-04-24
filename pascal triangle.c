@@ -1,3 +1,5 @@
+
+//new zmiana 7
 // A simple O(n^3) program for Pascal's Triangle
 #include <stdio.h>
 
