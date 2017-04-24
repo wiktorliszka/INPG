@@ -1,1 +1,1 @@
-# INPG
+# INPG Wiktor Liszka
