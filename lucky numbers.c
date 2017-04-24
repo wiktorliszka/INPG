@@ -1,5 +1,6 @@
 //new zmiana 5
 
+
 #include <stdio.h>
 #define bool int
 
