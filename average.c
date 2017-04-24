@@ -1,3 +1,5 @@
+//new zmiana 2
+
 // Returns the new average after including x
 //asd
 //asd
