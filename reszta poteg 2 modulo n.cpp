@@ -1,3 +1,5 @@
+//new zmiana 10
+
 
 #include <iostream>
 
@@ -35,4 +37,4 @@ int main()
   }
   cout << w << endl;
   return 0;
-} 
+}
