@@ -1,3 +1,5 @@
+//new zmiana 1
+
 #include <iostream>
 #include <string>
 
@@ -32,4 +34,4 @@ int main()
   }
   cout << ls << endl << endl;
   return 0;
-} 
+}
