@@ -1,3 +1,5 @@
+//new zmiana 3
+
 // A Program to check whether a number is divisible by 7
 //sdad
 //saf
