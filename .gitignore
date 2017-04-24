@@ -1,5 +1,3 @@
-/test.txt.txt
-/*.js
-/test.txt
-
+test.txt
+*.js
 tmp*
